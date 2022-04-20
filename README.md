@@ -50,6 +50,3 @@ src="https://img.shields.io/github/followers/CHRISTINEMUTHEE?logo=github&style=f
 
 <div width="100%" align="center"><a href="https://github.com/CHRISTINEMUTHEE/Hypothyroidism_Prediction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CHRISTINEMUTHEE&repo=Hypothyroidism_Prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/CHRISTINEMUTHEE/MyMoviesAfricaRecSys" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CHRISTINEMUTHEE&repo=MyMoviesAfricaRecSys&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/Christine Muthee"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
